@@ -34,7 +34,7 @@ whereis ideviceinfo
 Copy the path on the **ios-service.config** file. E.G:
 
 ```ini
-service.port=5005
+service.port=5050
 libimobiledevice.path=/usr/bin/
 libimobiledevice.timeout=20000
 ```
