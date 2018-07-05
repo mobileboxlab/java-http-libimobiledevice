@@ -1,4 +1,9 @@
-# Overview #
+# Java HTTP Libimobiledevice
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4bb011f6362546a7bf797b661dacde53)](https://www.codacy.com/app/htejera/java-http-libimobiledevice?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mobileboxlab/java-http-libimobiledevice&amp;utm_campaign=Badge_Grade)
+
+
+## Overview #
 
 **java-http-libimobiledevice** is a simple "REST" (I'm not so sure about that) service wrapper of [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) to communicate with services of Apple iOS devices using native
 protocols. This service works on Linux and macOS. 
