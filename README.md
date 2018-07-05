@@ -5,7 +5,7 @@
 
 ## Overview #
 
-**java-http-libimobiledevice** is a simple "REST" (I'm not so sure about that) service wrapper of [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) to communicate with services of Apple iOS devices using native
+**java-http-libimobiledevice** is a simple REST API wrapper of [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) to communicate with services of Apple iOS devices using native
 protocols. This service works on Linux and macOS. 
 
 **libimobiledevice** is a cross-platform software library that talks the protocols to support iPhone®, iPod Touch®, iPad® and Apple TV® devices. Unlike other projects, it does not depend on using any existing proprietary libraries and does not require jailbreaking. It allows other software to easily access the device's filesystem, retrieve information about the device and it's internals, backup/restore the device, manage SpringBoard® icons, manage installed applications, etc.
