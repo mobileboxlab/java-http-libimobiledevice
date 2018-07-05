@@ -25,6 +25,9 @@ hs_err_pid*
 /test-outputy
 *.prefs
 
-# Eclipse oh Ecplise
+# Eclipse oh Eclpise
 *.project
 *.classpath
+
+# Maven
+dependency-reduced-pom.xml
