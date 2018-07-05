@@ -41,7 +41,7 @@ libimobiledevice.timeout=20000
 
 ## Execution
 
-*	Download the latest version
+*	Download the [latest version](https://github.com/mobileboxlab/java-http-libimobiledevice/releases)
 *	Place the **ios-service.config** configuration file in the folder where **java-http-libimobiledevice-X.X.X.jar** is located.
 *	Start service:
 
