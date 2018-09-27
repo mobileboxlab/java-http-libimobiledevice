@@ -183,3 +183,5 @@ The documentation is generated on the **doc** directory.
 
 Any ideas are welcome. Feel free to submit any issues or pull requests.
 
+---
+**Java HTTP Libimobiledevice** is developed and maintained by [Mobilebox](http://mobileboxlab.com) team.
