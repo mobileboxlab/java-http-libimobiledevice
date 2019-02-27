@@ -1,4 +1,6 @@
-# Java HTTP Libimobiledevice
+
+![bryan](http://open.mobileboxlab.com/img/libi.gif)
+___
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/4bb011f6362546a7bf797b661dacde53)](https://www.codacy.com/app/htejera/java-http-libimobiledevice?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mobileboxlab/java-http-libimobiledevice&amp;utm_campaign=Badge_Grade)
 
@@ -182,6 +184,8 @@ The documentation is generated on the **doc** directory.
 ## Contribution
 
 Any ideas are welcome. Feel free to submit any issues or pull requests.
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 ---
 **Java HTTP Libimobiledevice** is developed and maintained by [Mobilebox](http://mobileboxlab.com) team.
